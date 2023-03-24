@@ -341,5 +341,5 @@ if x == 1234568:
               delete()
           if (t22 == "get_info"):
               retrive()
-          if(t22=="update") :
+          if(t22=="updates") :
               update()
